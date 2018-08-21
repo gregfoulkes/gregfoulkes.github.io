@@ -1,0 +1,37 @@
+
+
+.heading {
+width: 100%
+}
+.imageBox img{
+  margin: 5px;
+  padding: 2%;
+  width: 20%;
+  background-color: red;
+}
+
+.imageBox{
+  width: 45%;
+  float: left;
+}
+
+.headingBox1 {
+  width: 100%;
+}
+
+.headingBox1 h1{
+  margin: 5px;
+  padding: 2%;
+  text-align: center;
+  background-color: blue;
+  float:left;
+}
+
+ .navbox nav {
+  width: 33%;
+
+}
+
+.headingBox1 button {
+  width: 33%;
+}
